@@ -7,6 +7,8 @@ A QR code is a type of matrix barcode invented in 1994 by Japanese company Denso
 
 ### Example
 
+![image](https://user-images.githubusercontent.com/76829403/218099958-88d271c0-476b-4c66-b59c-c803dc2c8023.png)
+
 
 https://user-images.githubusercontent.com/76829403/218095930-2c96a865-46fb-416b-8939-f496bfd13b16.mp4
 
