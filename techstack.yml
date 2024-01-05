@@ -1,7 +1,8 @@
 repo_name: HaroonRehman/QR-Code-Authorization-and-QR-CodeReader-OpenCV-Python
-report_id: 5e75db807ac99a78025309a24969b072
+report_id: 38c8f8e5db2c56e9980b82c784948cd1
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:27:31+00:00'
+timestamp: '2024-01-05T08:28:55+00:00'
 requested_by: HaroonRehman
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/HaroonRehman/QR-Code-Authorization-and-QR-CodeReader-OpenCV-Python
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/HaroonRehman/QR-Code-Authorization-and-QR-CodeReader-OpenCV-Python
   detection_source: Repo Metadata
